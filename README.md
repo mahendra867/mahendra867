@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm  Mahendra</h1>
-<h3 align="center">Iam passionate About Datascience</h3>
-img align="right" alt="Coding" width="400" src="C:\Users\mahen\Downloads\A man focused ( 9e776f1a-60b3-4017-8be4-bf9d652f27ac.png">
-
+<h3 align="center">Iam Passionate About Datascience Field </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendra867&label=Profile%20views&color=0e75b6&style=flat" alt="mahendra867" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahendra867" alt="mahendra867" /></a> </p>
 
 - 🔭 I’m currently working on **End to End Sales Prediction**
 
