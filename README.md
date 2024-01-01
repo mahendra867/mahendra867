@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **End to End Sales Prediction**
 
-- 🌱 I’m currently learning **Modular coding with deployement**
+- 🌱 I’m currently learning **MLOPS**
 
 - 💬 Ask me about **MachineLearning,DeepLearning**
 
