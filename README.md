@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm  Mahendra</h1>
 <h3 align="center">Iam Passionate About Datascience Field </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.gencraft.com/prod/user/f1fed633-0a82-4660-96a8-49866f2b4aeb/0dc0ace5-38c2-4d71-b00d-5bdfaa07a171/image/image0_0.jpg?Expires=1703689932&Signature=G2DSDVsu5kyOCNo~yPFmqvhsPK0WgfsOCSmeYu4KxfeslBXZ3DU7tc3S6TOXxvoegMdYK5XF4WdXpps2EOXE6o5RCxWDom5biNMYRL9lzMkeyUtUkCZEczXkbx-OxDNN8iPE52Hb5ne7t1T6509OV~~wDI5z5KBLgD9L3Gu~quSnXnJIkJZqwFsA2w9Fl36bSfE1AMMpIVbok3rpr-HAOQAwHM8u6F4tcD-zpc0ra4nRK4WSlbjCaw48j5XfRYLE~rEJylpmUNE-NoxCS8wkpQfQKs7dD811MzcjTPh6An0mPhTK-rEZFFIH5RRk-ctKQXskByq8N8zVyDYcn5YFPA__&Key-Pair-Id=K3RDDB1TZ8BHT8">
+<img align="right" alt="Coding" width="400" src="C:\Users\mahen\Downloads\A man focused ( 9e776f1a-60b3-4017-8be4-bf9d652f27ac (2).png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendra867&label=Profile%20views&color=0e75b6&style=flat" alt="mahendra867" /> </p>
 
 - 🔭 I’m currently working on **End to End Sales Prediction**
