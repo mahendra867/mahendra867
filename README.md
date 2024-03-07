@@ -65,23 +65,21 @@
     </a> 
     <!-- Updated skills with corrected image URLs -->
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://seeklogo.com/images/A/aws-logo-41D07ED98F-seeklogo.com.png" alt="aws" width="40" height="40"/> 
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/aws_original_logo_icon_146374.png" alt="aws" width="40" height="40"/> 
     </a> 
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://seeklogo.com/images/T/tableau-software-logo-563CEF0EC3-seeklogo.com.png" alt="tableau" width="40" height="40"/> 
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tableau_logo_icon_168491.png" alt="tableau" width="40" height="40"/> 
     </a> 
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
         <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/> 
     </a> 
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/> 
+    <!-- New skills -->
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linux_logo_icon_168443.png" alt="linux" width="40" height="40"/> 
     </a> 
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="mongodb" width="40" height="40"/> 
     </a> 
-    <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> 
-    </a>
 </p>
 
 
