@@ -18,12 +18,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+    <!-- Existing skills -->
+    <!-- You can add or remove skills as needed -->
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     </a> 
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
     </a> 
+    <!-- Add your additional skills below -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
@@ -77,8 +80,16 @@
     </a> 
     <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/keras-team/keras-io/main/images/keras-logo-small-wb.png" alt="keras" width="40" height="40"/> 
+    </a>
+    <!-- New skills -->
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a> 
 </p>
+
  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahendra867&show_icons=true&locale=en&layout=compact" alt="mahendra867" /></p>
