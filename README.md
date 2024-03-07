@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **End to End Churn Prediction Application**
 
-- 🌱 I’m currently learning **MLOPS**
+- 🌱 I’m currently learning ** (AirFlow) MLOPS**
 
 - 💬 Ask me about **MachineLearning,DeepLearning**
 
