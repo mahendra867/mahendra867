@@ -63,22 +63,30 @@
     <a href="https://github.com/" target="_blank" rel="noreferrer"> 
         <img src="https://github.githubassets.com/favicons/favicon.png" alt="github" width="40" height="40"/> 
     </a> 
-    <!-- Updated skills with corrected image URLs -->
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/aws_original_logo_icon_146374.png" alt="aws" width="40" height="40"/> 
+        <img src="https://d1.awsstatic.com/webteam/getting_started/Digital_Ocean_Social_Cards-06.0aeeb7fe05f60347491af7d83c8c4f36e2f9b482.png" alt="aws" width="40" height="40"/> 
     </a> 
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tableau_logo_icon_168491.png" alt="tableau" width="40" height="40"/> 
+        <img src="https://www.tableau.com/themes/custom/tableau_desktop//favicons/favicon-32x32.png" alt="tableau" width="40" height="40"/> 
+    </a> 
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="40" height="40"/> 
     </a> 
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/> 
+        <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/> 
     </a> 
+    <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+    </a> 
+    <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/keras-team/keras-io/main/images/keras-logo-small-wb.png" alt="keras" width="40" height="40"/> 
+    </a>
     <!-- New skills -->
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linux_logo_icon_168443.png" alt="linux" width="40" height="40"/> 
-    </a> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="mongodb" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a> 
 </p>
 
