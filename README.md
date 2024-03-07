@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="C:\Users\mahen\Downloads\A man focused ( 9e776f1a-60b3-4017-8be4-bf9d652f27ac (2).png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendra867&label=Profile%20views&color=0e75b6&style=flat" alt="mahendra867" /> </p>
 
-- 🔭 I’m currently working on **End to End Sales Prediction**
+- 🔭 I’m currently working on **End to End Churn Prediction Application**
 
 - 🌱 I’m currently learning **MLOPS**
 
