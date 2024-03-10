@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm  Mahendra</h1>
 <h2 align="left">Machine Learning Engineer & Data Scientist </h2>
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/Qfz211x/pixlr-image-generator-910ca0e1-50c1-4ebb-86e8-82560d607f59.png">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/9bStwLt/pixlr-image-generator-d3996885-81bd-43c1-a935-7ca42d5c642a.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendra867&label=Profile%20views&color=0e75b6&style=flat" alt="mahendra867" /> </p>
 
 - 🔭 I’m currently working on **End to End Churn Prediction Application**
