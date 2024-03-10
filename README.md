@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm  Mahendra</h1>
 <h3 align="center">Machine Learning Engineer & Data Scientist </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.gencraft.com/prod/user/f1fed633-0a82-4660-96a8-49866f2b4aeb/3316134f-f8e8-4bd4-b74a-cb0d28035c5a/image/image1_0.jpg?Expires=1710153965&Signature=I2Xz5pnQPNP9uYp7KasVx0Sixbcg6ECDnHDritwh7W0AOvonoCYvtaoxwp9PJZnxboZs9KTRgk9mkaVbef7Bmt7WncrQVu7wsyrX4bN-1s-JSwaJL8X-wVaLzs-69c8B9pV2LRzs91UormNbheakV-ESDH9GUe-UBCZQmFlE9FG78YEfmkP~~3fmLBt96SyrWL84go7zZ3q9uytxLfmWEnDLRi4Oh-wiasjDUZ9SRIrM6Bi3Nf8ElRCKyUfaigR~hT3lbNJpXSkxDSkorA8KK1hKk6xmk9GAk4duxpOdSty0kjomknPLOoDTWil-1pFyfZSGIgVo8p6GNEHgnPZ9Jw__&Key-Pair-Id=K3RDDB1TZ8BHT8">
+<img align="right" alt="Coding" width="400" src="https://ibb.co/Vtr7PPk">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendra867&label=Profile%20views&color=0e75b6&style=flat" alt="mahendra867" /> </p>
 
 - 🔭 I’m currently working on **End to End Churn Prediction Application**
