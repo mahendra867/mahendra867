@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm  Mahendra</h1>
-<h2 align="center">Machine Learning Engineer & Data Scientist </h2>
+<h1 align="center">Hi 👋, I'm  Mahendra</h1>
+<h2 align="left">Machine Learning Engineer & Data Scientist </h2>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/Qfz211x/pixlr-image-generator-910ca0e1-50c1-4ebb-86e8-82560d607f59.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendra867&label=Profile%20views&color=0e75b6&style=flat" alt="mahendra867" /> </p>
 
