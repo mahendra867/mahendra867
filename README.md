@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/9bStwLt/pixlr-image-generator-d3996885-81bd-43c1-a935-7ca42d5c642a.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendra867&label=Profile%20views&color=0e75b6&style=flat" alt="mahendra867" /> </p>
 
-- 🔭 I’m currently working on **End to End NLP Application**
+- 🔭 I’m currently working on **End to End Insurance Price Optimization**
 
-- 🌱 I’m currently learning ** (AirFlow) MLOPS**
+- 🌱 I’m currently learning ** (Evidently AI) MLOPS**
 
-- 💬 Ask me about **MachineLearning,DeepLearning**
+- 💬 Ask me about **MachineLearning,DeepLearning,NLP**
 
 - 📫 How to reach me **mahendramahesh2001@gmail.com**
 
