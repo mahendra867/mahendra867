@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendra867&label=Profile%20views&color=0e75b6&style=flat" alt="mahendra867" /> </p>
 
 
-My portfolio : https://main--myportfoliods.netlify.app/
+Check out my portfolio : https://main--myportfoliods.netlify.app/
 
 - 🔭 I’m currently working on **End to End Insurance Price Optimization**
 
