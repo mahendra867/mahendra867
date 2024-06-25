@@ -6,9 +6,9 @@
 
 Check out my portfolio : https://main--myportfoliods.netlify.app/
 
-- 🔭 I’m currently working on **End to End Insurance Price Optimization**
+- 🔭 I’m currently working on **End to End Gen AI Projects**
 
-- 🌱 I’m currently learning ** (Evidently AI) MLOPS**
+- 🌱 I’m currently learning ** (Generative AI) **
 
 - 💬 Ask me about **MachineLearning,DeepLearning,NLP**
 
